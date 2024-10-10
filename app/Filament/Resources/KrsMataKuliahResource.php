@@ -23,7 +23,7 @@ class KrsMataKuliahResource extends Resource
     {
         return $form
             ->schema([
-                //
+                
             ]);
     }
 
